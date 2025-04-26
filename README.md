@@ -1,5 +1,8 @@
 **Twitter-financial-news-(finance-analyst)**
 
+**[Open in Google Colab] (https://colab.research.google.com/drive/1DzvefJx86txYe9NeFouyGSfEwchpoI9S?usp=sharing)**
+
+
 **🚀 Project Overview**
 
 This project aims to classify real-world financial news tweets into one of 20 distinct categories using advanced natural language processing and deep learning techniques. The dataset comprises over 21,000 annotated tweets sourced from finance-related discussions on Twitter. The ultimate goal is to build a robust classification model that can assist financial analysts and traders in quickly understanding tweet context and category.
